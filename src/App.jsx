@@ -7,7 +7,7 @@ function App() {
     <>
     <Usuario nombreUsuario="David" 
     apellidoUsuario="Mejia" 
-    level={1}/>
+    level={0}/>
   
     <Row style={{backgroundColor: geekblue[5]}}>
       <Col span={24}>col-24</Col>
